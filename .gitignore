@@ -1,3 +1,5 @@
 myshell
 *.o
 *.log
+output.txt
+out*

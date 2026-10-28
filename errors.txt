@@ -1,0 +1,2 @@
+cat: out2ls: No such file or directory
+cat: definitely_missing_file: No such file or directory

@@ -1,0 +1,3 @@
+-rw-rw-r-- 1 ali ali  16106 Oct 25 03:44 command.cc
+-rw-rw-r-- 1 ali ali    649 Oct 24  2025 command.h
+-rw-rw-r-- 1 ali ali 139440 Oct 24 19:13 command.o

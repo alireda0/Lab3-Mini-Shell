@@ -1,0 +1,19 @@
+test
+ls: cannot access 'definitely_missing_file': No such file or directory
+.:
+Makefile
+child_termination.log
+combined.txt
+combined2.txt
+command.cc
+command.h
+command.o
+errors.txt
+filtered.txt
+myshell
+out
+out2
+output.txt
+tokenizer.cc
+tokenizer.h
+tokenizer.o
